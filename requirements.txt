@@ -9,7 +9,7 @@ idna==2.8
 pkg-resources==0.0.0
 post==2019.3.22
 public==2019.3.22
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2018.9
 query-string==2019.3.22
 request==2019.3.22
